@@ -26,6 +26,6 @@ Hello and welcome to the TuTuTutoring tutor application website. On this website
 7. Must be hardworking
 
 
+<h3> How to send your information to us </h3>
 
-
-
+Send all of your infromation at this gmail Tutututoring@gmail.com and we will respond with a gmail back if we are interested with working with you
