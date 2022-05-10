@@ -28,4 +28,4 @@ Hello and welcome to the TuTuTutoring tutor application website. On this website
 
 <h3> How to send your information to us </h3>
 
-Send all of your infromation at this gmail Tutututoring@gmail.com and we will respond with a gmail back if we are interested with working with you
+Send all of your infromation at this gmail Tutututoring@gmail.com and we will respond with a gmail back if we are interested with working with you. We look foreward for all of the applications sent towards us
