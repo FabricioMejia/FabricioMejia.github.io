@@ -1,8 +1,8 @@
 
-<html>
+
 ## TuTuTutoring's tutor application
 
-Hello and welcome to the TuTuTutoring tutor application website. On this website you will be able to find out what you have to do
+Hello and welcome to the TuTuTutoring tutor application website. On this website you will be able to find out what you have to do to be able to work with us. There are acouple of requirements needed to be able to work with us that is very <strong> important </strong>, if you do not fit those requirements you can not work with us. A reminder that this is a <strong> non paying </strong> job so if you are looking to be payed this isn't the right job for you. You'll be helping multiple students with school work from many different grades so be prepared. To learn more about our company you can visit our website Tutututoring.com to learn more about what we do, what we teach, and about the owners of the company.
 
 
 
@@ -17,10 +17,15 @@ Hello and welcome to the TuTuTutoring tutor application website. On this website
 
 3. Must be available at least 5 days a week 
  
+4. Always prepared to be able to tutor a student
+  
+5. Can explain how to do the school work to the student in a way that they understand it much better
  
+6. Proof that they have tutored in the past before 
+
+7. Must be hardworking
 
 
 
 
-</html>
 
